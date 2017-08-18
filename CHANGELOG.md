@@ -1,3 +1,8 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+
+
 2014-01-21 Dan DeLeo <dan@kallistec.com>
   * Update knockout behavior to better handle nil (b7de40b5)
 
